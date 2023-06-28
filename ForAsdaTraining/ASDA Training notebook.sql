@@ -1,2 +1,2 @@
 -- Databricks notebook source
-select 'Test notebook for Repo'
+select 'Test notebook for this Repo'
